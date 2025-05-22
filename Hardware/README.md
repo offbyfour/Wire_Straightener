@@ -40,7 +40,7 @@ The cap is used to hold the screw in place
 
 
 ### Base
-The base holds the axles that are static as well as the screwd for the adjustable anchors.
+The base holds the axles that are static as well as the screws for the adjustable anchors.
 
 ![image](https://github.com/user-attachments/assets/d1086945-060d-4acb-b47c-071e53e79f2f)
 
