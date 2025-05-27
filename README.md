@@ -1,8 +1,11 @@
 # Wire_Straightener
-This is the project page for an open source Wire Straightener. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish.
+This is the project page for an open source Wire Straightener. The goal of this page is to provide complete instructions, component lists, HW and SW files to build this project from start to finish. 
 
 ![image](https://github.com/user-attachments/assets/926a7aa8-0597-4e77-ac56-cbefafe48348)
 
+## Construction
+
+Every part in this project can be 3D printed without supports. The only item which must be purchased is the bearings.
 
 
 ## Project Status
